@@ -1,0 +1,20 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "TST"
+		default = yes
+		
+		"TST"={
+			history = "SMO_GATHERING_STORM_DESC"
+		
+		"UKR"={
+			history = "UKR_GATHERING_STORM_DESC"
+		}
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+	}
+}
