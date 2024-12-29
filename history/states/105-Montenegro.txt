@@ -14,7 +14,7 @@ state={
 		victory_points = {
 			9821 1
 		}
-		owner = YUG
+		owner = MNT
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 2
@@ -26,7 +26,6 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = YUG
 
 	}
 

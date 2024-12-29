@@ -9,7 +9,6 @@ state = {
 
 		owner = CHI
 		add_core_of = CHI
-		add_core_of = PRC
 
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -31,10 +30,6 @@ state = {
 		}
 		victory_points = {
 			10076 3 # Suzhou
-		}
-
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 

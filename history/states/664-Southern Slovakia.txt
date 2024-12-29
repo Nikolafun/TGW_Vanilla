@@ -15,7 +15,10 @@ state = {
 	
 	history = {
 
-		owner = CZE
+		owner = AUS
+		add_core_of = AUS
+		add_core_of = HUN
+		add_core_of = SLO
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -25,9 +28,6 @@ state = {
 		victory_points = {
 			6573 1 # Kosice
 		}
-
-		add_core_of = CZE
-		add_core_of = SLO
 
 		# This should isntead be reclaimable through Hungarian focuses with ww
 		IF = {
@@ -39,13 +39,6 @@ state = {
 			add_claim_by = HUN
 		}
 		
-
-		1939.3.14 = {
-			owner = HUN
-			controller = HUN
-			remove_claim_by = HUN
-			add_core_of = HUN
-		}
 	}
 	
 	provinces = {

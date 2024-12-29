@@ -1,16 +1,14 @@
-version="1984"
+version="1.14.7"
 tags={
-	"National Focuses"
-	"Utilities"
-	"Technologies"
-	"Map"
-	"Historical"
-	"Gameplay"
-	"Events"
-	"Alternative History"
-	"Balance"
-	"Fixes"
+	"Translation"
 }
+dependencies={
+	"TGW_Vanilla-main"
+}
+name="TGW_Vanilla-main"
+picture="thumbnail.png"
+supported_version="1.14.7"
+
 replace_path="common/raids"
 replace_path="common/abilities"
 replace_path="common/autonomous_states"
@@ -76,5 +74,3 @@ replace_path="gfx/flags/medium"
 replace_path="gfx/flags/small"
 replace_path="gfx/train_gfx_database"
 replace_path="gfx/interface/equipmentdesigner/graphic_db"
-name="Hohloeb"
-supported_version="1.15.3"
